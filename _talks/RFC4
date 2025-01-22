@@ -1,10 +1,11 @@
 ---
-
 title: "Oncogenic Potential of Replication Factor C Subunit 4: Correlations with Tumor Progression and Assessment of Potential Inhibitors"
-collection: Poster
-type: "Presentation"
-permalink: /talks/RFC4
+collection: talks
+type: "Poster"
+permalink: /talks/2024-01-02-rfc4
 venue: "Bioinformatics Workshop"
 date: 2024-01-02
 location: "Nile University, Giza, Egypt"
 ---
+
+Presented findings on the oncogenic role of Replication Factor C Subunit 4 (RFC4) in tumor progression, focusing on its molecular correlations with various cancer stages. Highlighted computational analyses to identify and assess potential RFC4 inhibitors, offering new insights into targeted cancer therapies.
