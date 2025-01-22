@@ -2,8 +2,8 @@
 title: "ACTL6A: unraveling its prognostic impact and paving the way for targeted therapeutics in carcinogenesis"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/ACTL6A
+excerpt: 'Our study provides comprehensive insights into its carcinogenic actions, highlighting its potential as both a prognostic indicator and a target for anti-cancer therapy.'
 date: 2024-05-30
 venue: 'Frontiers in Molecular Biosciences'
 paperurl: 'http://FaragMamdouh.github.io/files/ACTL6A (3).pdf'
