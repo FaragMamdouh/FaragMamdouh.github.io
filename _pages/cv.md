@@ -34,7 +34,7 @@ Work experience
   
 Research experience
 ======
-* Oct 2023 – Ongoing: Remote Research Collaboration  
+* **Oct 2023 – Ongoing: Remote Research Collaboration**  
   * Stefano Cacciatore Lab, ICGEB, Cape Town, South Africa  
   * Based in Kalyobiya, Egypt  
   * Duties include:  
@@ -44,7 +44,7 @@ Research experience
     - Providing documentation for the KODAMA package.  
     * Links: [FaragMamdouh/KODAMA-](https://github.com/FaragMamdouh/KODAMA-/tree/main), [tkcaccia/KODAMAextra](https://github.com/tkcaccia/KODAMAextra)  
 
-* Mar 2023 – Jun 2023: Remote Research Contributor  
+* **Mar 2023 – Jun 2023: Remote Research Contributor**
   * Won Lab, Cedars-Sinai Medical Center, California, USA  
   * Based in Kalyobiya, Egypt  
   * Duties include:  
@@ -54,18 +54,18 @@ Research experience
     - Providing documentation for the Vesalius package functions.  
     * Link: [WonLab-CS/Vesalius](https://github.com/WonLab-CS/Vesalius)  
 
-* Feb 2022 – Apr 2022: Trainee at Cell Culture Lab  
+* **Feb 2022 – Apr 2022: Trainee at Cell Culture Lab**  
   * Research Institute of Genetic Engineering and Biotechnology, Cairo, Egypt  
   * Duties included:  
     - Gaining experience in tissue culture techniques, including media preparation, cell culture, cell harvesting, and cryopreservation in a laboratory setting.  
 
-* Aug 2021 – Oct 2021: Research Intern at Biotechnology Lab  
+* **Aug 2021 – Oct 2021: Research Intern at Biotechnology Lab** 
   * Theodor Bilharz Research Institute, Giza, Egypt  
   * Duties included:  
     - Learning molecular cloning techniques.  
     - Gaining hands-on experience with nested PCR, Reverse Transcriptase PCR, antimicrobial effect assays, and positive/negative gram bacteria experiments.  
 
-* Jul 2021 – Aug 2021: Research Intern  
+* **Jul 2021 – Aug 2021: Research Intern**  
   * Animal Reproduction Research Institute, Giza, Egypt  
   * Duties included:  
     - Conducting DNA and RNA extraction processes to ensure high-quality nucleic acid samples for downstream analysis.  
