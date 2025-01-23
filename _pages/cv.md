@@ -34,8 +34,6 @@ Work experience
   
 Research experience
 ======
-## Research Experience
-
 * Oct 2023 – Ongoing: Remote Research Collaboration  
   * Stefano Cacciatore Lab, ICGEB, Cape Town, South Africa  
   * Based in Kalyobiya, Egypt  
