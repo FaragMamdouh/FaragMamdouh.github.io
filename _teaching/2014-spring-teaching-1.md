@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Experience: Single-Cell Course"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Volunteering"
+permalink: /teaching/2025-single-cell-course
+venue: "Online Platform"
+date: 2025-01-01
+location: "Arabian Countries"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As a volunteer, I taught a course on single-cell technologies aimed at sharing fundamental knowledge with researchers across Arabian countries. The course was designed to bridge knowledge gaps and enhance research capabilities in this emerging field.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
